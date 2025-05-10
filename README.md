@@ -2,12 +2,13 @@
 
 
 # Harmonogram Rozwoju: Azure Data Engineer + Python Automation
+---
 
-## Cel Główny Harmonogramu
+## Cel Główny
 
 Celem tego kompleksowego programu rozwoju jest transformacja dotychczasowych, solidnych umiejętności w obszarze analizy danych i pracy z relacyjnymi bazami danych w kierunku nowoczesnego specjalisty **Azure Data Engineer z zaawansowanymi kompetencjami w Pythonie i automatyzacji**. Plan zakłada systematyczne budowanie wiedzy i praktycznych umiejętności niezbędnych do projektowania, wdrażania, zarządzania i optymalizacji skalowalnych rozwiązań do przetwarzania i analizy danych w ekosystemie Microsoft Azure. Poprzez intensywną naukę, praktyczne projekty i ciągłe doskonalenie, dążymy do osiągnięcia poziomu eksperckiego, który pozwoli na samodzielne prowadzenie złożonych projektów data engineering, efektywne wykorzystanie narzędzi chmurowych oraz automatyzację procesów ETL/ELT. Ostatecznym rezultatem ma być nie tylko zdobycie formalnych kwalifikacji (jak certyfikat DP-203), ale przede wszystkim zbudowanie silnego portfolio i pewności siebie w operowaniu najnowszymi technologiami danych, co umożliwi płynne przejście do nowej, satysfakcjonującej roli zawodowej na dynamicznie rozwijającym się rynku IT.
 
-## Założenia Harmonogramu
+## Założenia
 
 * **Intensywność:** Maksymalnie 15 godzin nauki tygodniowo, rozłożone na dni robocze.
 * **Metodyka:** Kursy online (głównie Microsoft Learn, uzupełnione o materiały z YouTube i dokumentację), praktyczne projekty (GitHub), samodzielne eksperymenty, regularne testy sprawdzające wiedzę.
